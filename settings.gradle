@@ -1,0 +1,8 @@
+include ':feature:splash'
+include ':core'
+include ':app'
+rootProject.name = "CovidVaccine"
+include ':feature:dashboard'
+include ':feature:onboarding'
+include ':feature:settings'
+include ':feature:search-by-pin'
